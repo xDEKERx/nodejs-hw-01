@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "c00d8327-524e-41e3-901f-8a5756abf44c",
+    "name": "Anna Baumbach",
+    "phone": "277-854-3035 x58103",
+    "email": "Franco_Walter@yahoo.com",
+    "job": "Chief Branding Specialist"
+  },
+  {
+    "id": "f51da664-e07f-406b-bd6b-39df46d31e52",
+    "name": "Darrel Jaskolski-Pouros",
+    "phone": "282.569.6615 x5573",
+    "email": "Kadin.Davis@gmail.com",
+    "job": "Direct Metrics Assistant"
+  },
+  {
+    "id": "a2c0c989-cac9-493d-b0d2-de8216066bc5",
+    "name": "Beverly Miller",
+    "phone": "(566) 677-4558 x17147",
+    "email": "Domingo.Kris@gmail.com",
+    "job": "Central Intranet Executive"
+  },
+  {
+    "id": "ce0109f7-b578-4cee-98a4-985084146895",
+    "name": "Kyle Kuvalis",
+    "phone": "944.825.9687 x882",
+    "email": "Kevon.Gleason@gmail.com",
+    "job": "Senior Intranet Technician"
+  },
+  {
+    "id": "0e39ef36-343f-4575-b17c-675e478b6377",
+    "name": "Guadalupe Emmerich",
+    "phone": "1-772-957-7979 x516",
+    "email": "Rosemary_Breitenberg81@gmail.com",
+    "job": "Product Applications Technician"
+  }
+]
